@@ -4,6 +4,7 @@ Change log
 ##########
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Version 0.8-rc1
 ===============
 
@@ -52,6 +53,15 @@ New features:
 
 * added *assertFalse* assert function.
 =======
+=======
+Version 0.8.2
+=============
+
+Released on 2014-02-xx.
+
+.. include:: changes/version_0_8_2.rst.inc
+
+>>>>>>> 078e584b9e15fe2ce12abc8cb40956742d1c3657
 Version 0.8.1
 =============
 >>>>>>> 2dc28e10f475f4e0149323b221efe5bb370a4625
